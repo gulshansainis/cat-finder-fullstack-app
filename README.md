@@ -18,8 +18,16 @@
    -  `axios` - make http request
 
 # Starting the app
-1. `client` - cd to `client` folder and type `npm start`. Client starts on port `3000`
-2. `server` - cd to `server` folder and type `npm start`. Server starts on port `3001`
+1. `client` 
+   - cd to `client` folder
+   - type `npm install`
+   - type `npm start`
+   - Client starts on port `3000`
+2. `server`
+   - cd to `server` folder
+   - type `npm install`
+   - type `npm start`
+   - Server starts on port `3001`
 
 # What we are building?
 A cat finder app having following features
