@@ -1,0 +1,66 @@
+[
+  {
+    "_id": "62ea39f5f4710a494eac8a49",
+    "id": "4ip",
+    "name": "Oliver",
+    "url": "http://localhost:3001/images/4ip.gif",
+    "width": 500,
+    "height": 281
+  },
+  {
+    "_id": "62ea39f5f4710a494eac8a4a",
+    "id": "9q7",
+    "name": "Leo",
+    "url": "http://localhost:3001/images/9q7.jpeg",
+    "width": 586,
+    "height": 880
+  },
+  {
+    "_id": "62ea39f5f4710a494eac8a4b",
+    "id": "a9u",
+    "name": "Milo",
+    "url": "http://localhost:3001/images/a9u.jpeg",
+    "width": 900,
+    "height": 602
+  },
+  {
+    "_id": "62ea39f5f4710a494eac8a4c",
+    "id": "an1",
+    "name": "Charlie",
+    "url": "http://localhost:3001/images/an1.jpeg",
+    "width": 320,
+    "height": 240
+  },
+  {
+    "_id": "62ea39f5f4710a494eac8a4d",
+    "id": "bij",
+    "name": "Max",
+    "url": "http://localhost:3001/images/bij.jpeg",
+    "width": 500,
+    "height": 333
+  },
+  {
+    "_id": "62ea39f5f4710a494eac8a4e",
+    "id": "MjA3MDk0NA",
+    "name": "Simba",
+    "url": "http://localhost:3001/images/MjA3MDk0NA.jpeg",
+    "width": 479,
+    "height": 599
+  },
+  {
+    "_id": "62ea39f5f4710a494eac8a4f",
+    "id": "J2qM5HR5K",
+    "name": "Jack",
+    "url": "http://localhost:3001/images/J2qM5HR5K.jpeg",
+    "width": 1250,
+    "height": 1257
+  },
+  {
+    "_id": "62ea39f5f4710a494eac8a50",
+    "id": "friCDLZCE",
+    "name": "Loki",
+    "url": "http://localhost:3001/images/friCDLZCE.jpeg",
+    "width": 320,
+    "height": 240
+  }
+]

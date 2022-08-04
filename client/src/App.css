@@ -1,0 +1,47 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  display: flex;
+  align-items: center;
+  font-size: calc(10px + 2vmin);
+  box-shadow: 1px 1px 2px #282c34;
+}
+
+.search-cats {
+  border: 1px solid grey;
+  padding: 5px;
+  margin: 20px 0;
+  border-radius: 10px;
+}
+
+.search-results-count {
+  margin: 10px 0;
+}
+
+.cats-container {
+  display: flex;
+  justify-content: center;
+}
+
+.cat {
+  margin-right: 10px;
+}
+
+.cat-image {
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  box-shadow: 1px 1px 2px #282c34;
+}
